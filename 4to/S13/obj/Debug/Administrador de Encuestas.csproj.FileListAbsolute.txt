@@ -1,0 +1,27 @@
+E:\DavichoStar\source\repos\Administrador de Encuestas\bin\Debug\Administrador de Encuestas.exe.config
+E:\DavichoStar\source\repos\Administrador de Encuestas\bin\Debug\Administrador de Encuestas.exe
+E:\DavichoStar\source\repos\Administrador de Encuestas\bin\Debug\Administrador de Encuestas.pdb
+E:\DavichoStar\source\repos\Administrador de Encuestas\obj\Debug\Administrador de Encuestas.csprojAssemblyReference.cache
+E:\DavichoStar\source\repos\Administrador de Encuestas\obj\Debug\Administrador_de_Encuestas.Properties.Resources.resources
+E:\DavichoStar\source\repos\Administrador de Encuestas\obj\Debug\Administrador de Encuestas.csproj.GenerateResource.cache
+E:\DavichoStar\source\repos\Administrador de Encuestas\obj\Debug\Administrador de Encuestas.csproj.CoreCompileInputs.cache
+E:\DavichoStar\source\repos\Administrador de Encuestas\obj\Debug\Administrador de Encuestas.exe
+E:\DavichoStar\source\repos\Administrador de Encuestas\obj\Debug\Administrador de Encuestas.pdb
+E:\DavichoStar\source\repos\Administrador de Encuestas\bin\Debug\MySql.Data.dll
+E:\DavichoStar\source\repos\Administrador de Encuestas\bin\Debug\Google.Protobuf.dll
+E:\DavichoStar\source\repos\Administrador de Encuestas\bin\Debug\Zstandard.Net.dll
+E:\DavichoStar\source\repos\Administrador de Encuestas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\DavichoStar\source\repos\Administrador de Encuestas\bin\Debug\BouncyCastle.Crypto.dll
+E:\DavichoStar\source\repos\Administrador de Encuestas\bin\Debug\Ubiety.Dns.Core.dll
+E:\DavichoStar\source\repos\Administrador de Encuestas\bin\Debug\Renci.SshNet.dll
+E:\DavichoStar\source\repos\Administrador de Encuestas\bin\Debug\System.Memory.dll
+E:\DavichoStar\source\repos\Administrador de Encuestas\bin\Debug\System.Buffers.dll
+E:\DavichoStar\source\repos\Administrador de Encuestas\bin\Debug\K4os.Compression.LZ4.dll
+E:\DavichoStar\source\repos\Administrador de Encuestas\bin\Debug\K4os.Hash.xxHash.dll
+E:\DavichoStar\source\repos\Administrador de Encuestas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\DavichoStar\source\repos\Administrador de Encuestas\bin\Debug\MySql.Data.xml
+E:\DavichoStar\source\repos\Administrador de Encuestas\obj\Debug\Administrador de Encuestas.exe.config
+E:\DavichoStar\source\repos\Administrador de Encuestas\obj\Debug\Administrador de Encuestas.csproj.CopyComplete
+E:\DavichoStar\source\repos\Administrador de Encuestas\obj\Debug\Administrador_de_Encuestas.FormCrearP.resources
+E:\DavichoStar\source\repos\Administrador de Encuestas\obj\Debug\Administrador_de_Encuestas.FormPreguntas.resources
+E:\DavichoStar\source\repos\Administrador de Encuestas\obj\Debug\Administrador_de_Encuestas.FormBuscar.resources

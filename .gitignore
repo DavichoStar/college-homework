@@ -1,0 +1,86 @@
+# Compilaciones
+out/
+docs/
+
+# Numerosas extensiones siempre ignoradas
+*.diff
+*.err
+*.orig
+*.log
+*.rej
+*.swo
+*.swp
+*.vi
+*~
+*.sass-cache
+*.tmp
+
+# OS o carpetas del editor
+# .vscode
+.DS_Store
+.cache
+.project
+.settings
+.tmproj
+nbproject
+Thumbs.db
+package-lock.json
+messages
+
+# Coveralls
+coverage
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Datos de tiempo de ejecución
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Directorio de librerías instrumentadas generadas por jscoverage / JSCover
+lib-cov
+
+# Directorio de cobertura utilizado por herramientas como Estambul
+coverage
+
+# cobertura de la prueba nyc
+.nyc_output
+
+# Grunt intermedio de almacenamiento (http://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# configuración nodo-waf
+.lock-wscript
+
+# Complementos binarios (http://nodejs.org/api/addons.html)
+build/Release
+
+# Directorios de dependencia
+node_modules
+jspm_packages
+
+# Directorio de caché npm opcional
+.npm
+
+# Opcional eslint cache
+.eslintcache
+
+# Historial REPL opcional
+.node_repl_history
+
+# Salida de 'paquete npm'
+*.tgz
+
+# Archivo de integridad de hilo
+.yarn-integrity
+
+# Heroku Env
+.env
+
+# Misc
+*.docx
+*.pdf

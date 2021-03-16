@@ -1,0 +1,13 @@
+E:\DavichoStar\source\repos\Ejercicio3-S9\bin\Debug\Ejercicio3-S9.exe.config
+E:\DavichoStar\source\repos\Ejercicio3-S9\bin\Debug\Ejercicio3-S9.exe
+E:\DavichoStar\source\repos\Ejercicio3-S9\bin\Debug\Ejercicio3-S9.pdb
+E:\DavichoStar\source\repos\Ejercicio3-S9\obj\Debug\Ejercicio3-S9.csprojAssemblyReference.cache
+E:\DavichoStar\source\repos\Ejercicio3-S9\obj\Debug\Ejercicio3_S9.Properties.Resources.resources
+E:\DavichoStar\source\repos\Ejercicio3-S9\obj\Debug\Ejercicio3-S9.csproj.GenerateResource.cache
+E:\DavichoStar\source\repos\Ejercicio3-S9\obj\Debug\Ejercicio3-S9.csproj.CoreCompileInputs.cache
+E:\DavichoStar\source\repos\Ejercicio3-S9\obj\Debug\Ejercicio3-S9.exe
+E:\DavichoStar\source\repos\Ejercicio3-S9\obj\Debug\Ejercicio3-S9.pdb
+E:\DavichoStar\source\repos\Ejercicio3-S9\bin\Debug\es-MX\Ejercicio3-S9.resources.dll
+E:\DavichoStar\source\repos\Ejercicio3-S9\obj\Debug\Ejercicio3_S9.VuelosUNID.resources
+E:\DavichoStar\source\repos\Ejercicio3-S9\obj\Debug\Ejercicio3_S9.VuelosUNID.es-MX.resources
+E:\DavichoStar\source\repos\Ejercicio3-S9\obj\Debug\es-MX\Ejercicio3-S9.resources.dll

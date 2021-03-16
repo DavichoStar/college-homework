@@ -1,0 +1,13 @@
+E:\DavichoStar\source\repos\Tarea1\bin\Debug\Tarea1.exe.config
+E:\DavichoStar\source\repos\Tarea1\bin\Debug\Tarea1.exe
+E:\DavichoStar\source\repos\Tarea1\bin\Debug\Tarea1.pdb
+E:\DavichoStar\source\repos\Tarea1\bin\Debug\es-MX\Tarea1.resources.dll
+E:\DavichoStar\source\repos\Tarea1\obj\Debug\Tarea1.csprojAssemblyReference.cache
+E:\DavichoStar\source\repos\Tarea1\obj\Debug\Tarea1.Form1.resources
+E:\DavichoStar\source\repos\Tarea1\obj\Debug\Tarea1.Properties.Resources.resources
+E:\DavichoStar\source\repos\Tarea1\obj\Debug\Tarea1.Form1.es-MX.resources
+E:\DavichoStar\source\repos\Tarea1\obj\Debug\Tarea1.csproj.GenerateResource.cache
+E:\DavichoStar\source\repos\Tarea1\obj\Debug\Tarea1.csproj.CoreCompileInputs.cache
+E:\DavichoStar\source\repos\Tarea1\obj\Debug\es-MX\Tarea1.resources.dll
+E:\DavichoStar\source\repos\Tarea1\obj\Debug\Tarea1.exe
+E:\DavichoStar\source\repos\Tarea1\obj\Debug\Tarea1.pdb
