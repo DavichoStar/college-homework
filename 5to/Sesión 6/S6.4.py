@@ -22,7 +22,6 @@ def pais_maspoblacion(paises):
 
 
 # bloque principal
-
 paises = cargar_paisespoblacion()
 imprimir(paises)
 pais_maspoblacion(paises)
