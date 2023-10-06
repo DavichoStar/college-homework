@@ -14,11 +14,11 @@ Esta es un repositorio donde estarán los códigos fuentes de los trabajos de la
 
 Universidad Interamericana para el Desarrollo **(UNID)**
 
-Ciclo escolar 2019 - Actualidad (pronóstico: 2022)
+Ciclo escolar sep. 2019 - dic. 2020 (No graduado, 4to concluido)
 
-Carrera: Lic. en Ing. en Software y Sistemas Computacionales.
+Carrera: Licenciatura en Ingeniería en Software y Sistemas Computacionales.
 
-## Materias
+## Materias (Cuatrimestres)
 
 -   Algoritmos **(2do)**
 -   Principios de Programación Lógica **(3ro)**
