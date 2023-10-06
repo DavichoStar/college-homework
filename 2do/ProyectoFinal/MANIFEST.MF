@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Created-By: DavichoStar
-Main-Class: Tabla
-X-COMMENT: Proyecto Final

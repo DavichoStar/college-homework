@@ -1,7 +1,0 @@
-ha = (25, "Diciembre", 2016)
-punto = (10, 2)
-persona = ("Rodriguez", "Pablo", 43)
-print("tupla")
-print(ha)
-print(punto)
-print(persona)
