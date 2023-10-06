@@ -18,7 +18,7 @@ Ciclo escolar sep. 2019 - dic. 2020 (No graduado, 4to concluido)
 
 Carrera: Licenciatura en Ingeniería en Software y Sistemas Computacionales.
 
-## Materias (Cuatrimestres)
+## Materias - (Cuatrimestres)
 
 -   Algoritmos **(2do)**
 -   Principios de Programación Lógica **(3ro)**
